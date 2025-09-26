@@ -3,7 +3,6 @@
 ## Directory
 - side_services: contiene il docker-compose per il database MongoDB e per i servizi principali
 - medaryon: contiene il codice sorgente del progetto Medaryon
-- tesi: contiene i dati di documentazione e le risorse per la tesi
 
 ## Avvio del Progetto
 Per avviare il progetto, eseguire i seguenti comandi:
